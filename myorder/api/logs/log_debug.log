@@ -1,0 +1,64 @@
+[INFO 2019-12-29T19:17:48.636 APP ] Server listening on port:3002
+[INFO 2019-12-29T20:54:04.695 APP ] ws断开
+[INFO 2019-12-29T20:54:45.900 APP ] ws断开
+[INFO 2019-12-29T20:54:48.769 APP ] ws断开
+[INFO 2019-12-29T20:58:33.361 APP ] ws断开
+[INFO 2019-12-29T20:59:00.154 APP ] ws断开
+[INFO 2019-12-29T21:01:07.453 APP ] ws断开
+[INFO 2019-12-29T21:02:08.870 APP ] ws断开
+[INFO 2019-12-29T21:02:20.786 APP ] ws断开
+[INFO 2019-12-29T21:02:33.128 APP ] ws断开
+[INFO 2019-12-29T21:15:36.754 APP ] ws断开
+[INFO 2019-12-29T21:17:54.088 APP ] ws断开
+[INFO 2019-12-29T21:18:18.370 APP ] ws断开
+[INFO 2019-12-29T21:18:55.310 APP ] ws断开
+[INFO 2019-12-29T21:19:39.935 APP ] ws断开
+[INFO 2019-12-29T21:30:14.461 APP ] ws断开
+[INFO 2019-12-29T21:30:22.256 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"qqqq"}
+[ERROR 2019-12-29T21:30:22.436 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [pji4TA0285e535]' }
+[ERROR 2019-12-29T21:30:22.569 WECHAT ] 内容安全校验不通过: | qqqq
+[INFO 2019-12-29T21:30:49.929 APP ] ws断开
+[INFO 2019-12-29T21:30:58.570 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"qqq"}
+[ERROR 2019-12-29T21:30:58.713 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [sLjDgA0321e264]' }
+[ERROR 2019-12-29T21:30:58.837 WECHAT ] 内容安全校验不通过: | qqq
+[INFO 2019-12-29T21:31:32.160 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"我是人"}
+[ERROR 2019-12-29T21:31:32.285 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [EqsDEA0355e535]' }
+[ERROR 2019-12-29T21:31:32.413 WECHAT ] 内容安全校验不通过: | 我是人
+[INFO 2019-12-29T21:51:38.830 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:51:38.983 WECHAT ] 获取微信access_token报错 | { errcode: 40013, errmsg: 'invalid appid hint: [h05611533]' }
+[ERROR 2019-12-29T21:51:39.102 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:52:03.017 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:52:03.150 WECHAT ] 获取微信access_token报错 | { errcode: 40013, errmsg: 'invalid appid hint: [p0586sha8]' }
+[ERROR 2019-12-29T21:52:03.265 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:52:30.713 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:52:30.829 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [axK2va06138162]' }
+[ERROR 2019-12-29T21:52:30.944 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:53:06.112 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:53:06.210 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [7ypwQa0649ha64]' }
+[ERROR 2019-12-29T21:53:06.320 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:53:44.929 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:53:45.074 WECHAT ] 获取微信access_token报错 | { errcode: 40013, errmsg: 'invalid appid hint: [L8f40688e668]' }
+[ERROR 2019-12-29T21:53:45.215 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:54:06.673 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":""}
+[ERROR 2019-12-29T21:54:06.800 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [RzSsmA0709sha8]' }
+[ERROR 2019-12-29T21:54:06.917 WECHAT ] 内容安全校验不通过: | 
+[INFO 2019-12-29T21:54:45.149 APP ] Server listening on port:3002
+[INFO 2019-12-29T22:06:09.303 APP ] ws断开
+[INFO 2019-12-29T22:06:19.880 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"QQ群"}
+[ERROR 2019-12-29T22:06:20.086 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [O2PM_a0443e668]' }
+[ERROR 2019-12-29T22:06:20.226 WECHAT ] 内容安全校验不通过: | QQ群
+[INFO 2019-12-29T22:07:19.534 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"请求"}
+[ERROR 2019-12-29T22:07:19.668 WECHAT ] 获取微信access_token报错 | { errcode: 40013,
+  errmsg: 'invalid appid hint: [IOI1nA05024731]' }
+[ERROR 2019-12-29T22:07:19.783 WECHAT ] 内容安全校验不通过: | 请求
+[INFO 2019-12-29T22:08:13.981 APP ] Server listening on port:3002
+[INFO 2019-12-29T22:08:22.648 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"222222"}
+[INFO 2019-12-29T23:15:19.006 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"QQ群"}
+[INFO 2019-12-29T23:19:20.023 APP ] 收到消息 | undefined | {"username":"动不动就胖了","imgurl":"https://wx.qlogo.cn/mmopen/vi_32/Vr8icsx90B4icpPnLcJzsHylLNYLFeleUazJ3wShQXoFgU4icBic9o2MVdgekTMGTdfShibHpOhynbekpVYicZhK2SwA/132","content":"QQ群11"}
